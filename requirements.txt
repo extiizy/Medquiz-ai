@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+openai>=1.0
+python-pptx>=1.0
+pypdf>=5.0
+gunicorn>=23.0
